@@ -36,7 +36,7 @@ export default css`
 
   body {
     min-height: 100vh;
-    overflow-y: scroll;
+    overflow-y: hidden;
   }
 
   h1,
